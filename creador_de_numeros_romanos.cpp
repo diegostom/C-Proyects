@@ -1,3 +1,7 @@
+/*
+	Basic C++ Code – May Contain Errors
+*/
+
 #include<iostream>
 
 using namespace std;
@@ -24,8 +28,8 @@ int main(){
 		case 3: cout<<"CCC";break;
 		case 4: cout<<"CD";break;
 		case 5: cout<<"D";break;
-		case 6: cout<<"DD";break;
-		case 7: cout<<"DDD";break;
+		case 6: cout<<"DC";break;
+		case 7: cout<<"DCC";break;
 		case 8: cout<<"DCCC";break;
 		case 9: cout<<"CM";break;
 	}
@@ -38,7 +42,7 @@ int main(){
 		case 5: cout<<"L";break;
 		case 6: cout<<"LX";break;
 		case 7: cout<<"LXX";break;
-		case 8: cout<<"LXX";break;
+		case 8: cout<<"LXXX";break;
 		case 9: cout<<"XC";break;
 	}
 	
